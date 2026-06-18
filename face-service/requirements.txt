@@ -1,0 +1,9 @@
+Flask
+flask-cors
+opencv-python
+gunicorn
+numpy
+python-dotenv
+insightface
+onnxruntime
+requests
